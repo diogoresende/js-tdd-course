@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoresende/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Diogo Resende <diogoresende10@gmail.com> (https://www.linkedin.com/in/diogo-resende-b3b0a145/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogoresende/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/diogoresende/js-tdd-course#readme"
+}
